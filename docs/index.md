@@ -2,7 +2,7 @@
 
 My name is Taylor Singletary. I work on the internet.
 
-![Developer activation, Fantastic Planet style](/img/fantastic-planet-mount-head.gif "Developer activation, Fantastic Planet style")
+![Developer activation, Fantastic Planet style](img/fantastic-planet-mount-head.gif "Developer activation, Fantastic Planet style")
 
 ## Work
 
