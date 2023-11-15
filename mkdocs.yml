@@ -1,0 +1,23 @@
+site_name: "@episod - Taylor Singletary, reality technician"
+repo_url: https://github.com/episod/realitytechnicians.com/
+site_url: https://realitytechnicians.com/
+site_author: Taylor Singletary
+
+# Configuration
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
