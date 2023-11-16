@@ -3,9 +3,15 @@ repo_url: https://github.com/episod/realitytechnicians.com/
 site_url: https://realitytechnicians.com/
 site_author: Taylor Singletary
 
+nav:
+  - 'About me': 'index.md'
+
+
 # Configuration
 theme:
   name: material
+  include_sidebar: false
+
   palette:
     - scheme: default
       primary: cyan

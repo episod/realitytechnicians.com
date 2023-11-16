@@ -1,12 +1,16 @@
-# Taylor Singletary, reality technician
+---
+title: About me
+---
 
-My name is Taylor Singletary. I work on the internet.
+# About me
 
-![Developer activation, Fantastic Planet style](img/fantastic-planet-mount-head.gif "Developer activation, Fantastic Planet style")
+My name is Taylor Singletary. I tend to work on developer-facing internet platforms.
+
+[![Developer activation, Fantastic Planet style](img/fantastic-planet-mount-head.gif "Developer activation, Fantastic Planet style")](https://devrel.realitytechnicians.com/)
 
 ## Work
 
-* I'm currently a senior director of developer relations at Slack, where I've worked for 8 years.
+* I'm currently a senior director of developer relations at [Slack](https://api.slack.com/), where I've worked for 8 years.
 * Previously I worked in developer relations, product, and engineering for Clever, Twitter, and LinkedIn.
 * [Connect with me on LinkedIn](https://linkedin.com/in/taylorsingletary).
 
@@ -27,5 +31,5 @@ My name is Taylor Singletary. I work on the internet.
 
 ## Other writing
 
-* I was on Twitter a bit. [The archive is still on something called X](https://twitter.com/episod).
-* There's quite a bit on everything2.com still too.
+* I was on Twitter a bit. [The archive is still available on something now called X](https://twitter.com/episod).
+* There's quite a bit on [everything2.com](https://everything2.com) from my youth.
