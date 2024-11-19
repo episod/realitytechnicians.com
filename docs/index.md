@@ -10,8 +10,8 @@ My name is Taylor Singletary. I tend to work on developer-facing internet platfo
 
 ## Work
 
-* I'm currently a senior director of developer relations at [Slack](https://api.slack.com/), where I've worked for 8 years.
-* Previously I worked in developer relations, product, and engineering for Clever, Twitter, and LinkedIn.
+* I'm currently head of developer relations at [Retool](https://retool.com). This interview outlines [how I approach DevRel at Retool](https://retool.com/blog/retool-developer-relations), as well as my journey into the role.
+* Previously I worked in developer relations, product, and engineering for Slack, Clever, Twitter, and LinkedIn.
 * [Connect with me on LinkedIn](https://linkedin.com/in/taylorsingletary).
 
 ## Music
@@ -33,3 +33,4 @@ My name is Taylor Singletary. I tend to work on developer-facing internet platfo
 
 * I was on Twitter a bit. [The archive is still available on something now called X](https://twitter.com/episod).
 * There's quite a bit on [everything2.com](https://everything2.com) from my youth.
+* Find me as `@episod` on just about any suitable service.
