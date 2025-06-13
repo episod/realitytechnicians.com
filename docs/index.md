@@ -10,7 +10,7 @@ My name is Taylor Singletary. I tend to work on developer-facing internet platfo
 
 ## Work
 
-* I'm currently head of developer relations at [Retool](https://retool.com). This interview outlines [how I approach DevRel at Retool](https://retool.com/blog/retool-developer-relations), as well as my journey into the role.
+* I'm currently head of developer relations at [Retool](https://retool.com). This interview outlines [**how I approach DevRel at Retool**](https://retool.com/blog/retool-developer-relations), as well as my journey into the role.
 * Previously I worked in developer relations, product, and engineering for Slack, Clever, Twitter, and LinkedIn.
 * [Connect with me on LinkedIn](https://linkedin.com/in/taylorsingletary).
 
@@ -19,8 +19,8 @@ My name is Taylor Singletary. I tend to work on developer-facing internet platfo
 * I make some mostly electronic music available on [Soundcloud](https://soundcloud.com/reality-technician).
 
 ## For platform providers
-
-* [Developer relations anywhere](https://devrel.realitytechnicians.com/) - a template for starting or restarting developer relations teams
+* [**Developer relations anywhere**](https://devrel.realitytechnicians.com/) - my template for starting or restarting developer relations teams
+* [Model Context Protocol: An essential standard for AI-powered tool selection](https://retool.com/blog/what-is-model-context-protocol) - How to look at MCP as the future of interop
 * [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/) - co-author; Slack Engineering Blog
     * [Podcast: API Design](https://soundcloud.com/mulesoft/apis-unplugged-s2-e13-api-design-with-saurabh-sahni-and-taylor-singletary) - interview on APIs Unplugged
 * [Masters of Product Change: Taylor Singletary - Slack](https://www.launchnotes.com/blog/masters-of-product-change-taylor-singletary-slack) - an interview with me on change management at scale.
